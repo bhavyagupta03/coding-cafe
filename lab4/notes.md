@@ -1,4 +1,4 @@
-#lab 4
+# Lab 4: Git & GitHub
 
 1. `--global` means the setting is saved once for my whole Mac (in `~/.gitconfig`), a bit like a global variable. Without it, it would only apply to the current repo, like a local variable, and other repos would have no name or email.
 2. A hidden `.git` folder appeared. It holds the repo's whole history and settings, like commits, branches and config. It is basically Git's database, so I shouldn't touch it.
